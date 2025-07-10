@@ -52,10 +52,10 @@ The dashboards were built to help stakeholders:
 ## ✨ Sample Screenshots
 
 ### Sales Dashboard  
-![Sales Dashboard](link-to-image-if-hosted)
+SuperStore Sales Dashboard Page 1.png
 
 ### Forecast Dashboard  
-![Forecast Dashboard](link-to-image-if-hosted)
+SuperStore Sales Dashboard Page 2.png
 
 ---
 
