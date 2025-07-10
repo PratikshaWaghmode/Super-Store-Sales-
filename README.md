@@ -42,9 +42,7 @@ The dashboards were built to help stakeholders:
 ---
 
 ## 📂 Files Included
-- `SuperStore_Sales_Dashboard.pbix` – Main dashboard file
-- `SuperStore_Forecast_Dashboard.pbix` – Forecasting dashboard file
-- `Dataset.csv` – Cleaned dataset used
+- `SuperStore_Sales.pbix` – Main dashboard file
 - Screenshots of dashboards for preview
 
 ---
